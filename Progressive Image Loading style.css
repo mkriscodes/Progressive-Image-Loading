@@ -33,3 +33,17 @@ body {
     font-weight: 400;
     text-align: center;
 }
+
+@media (max-width: 700px) {
+    .loading-text {
+        text-align: center;
+        font-size: 70px;
+        color: black;
+        font-weight: 400;
+    }
+    .bg {
+        background-position: center;
+        background-repeat: no-repeat;
+        filter: blur(0px);
+    }
+}
