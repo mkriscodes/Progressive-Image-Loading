@@ -9,12 +9,12 @@ body {
     overflow: hidden;
     height: 100vh;
     margin: 0;
+    background-color: lightgray;
 }
 
 .bg {
     background-image: url('https://cdn.thecrazytourist.com/wp-content/uploads/2018/09/ccimage-shutterstock_601048877.jpg');
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
     height: 100vh;
